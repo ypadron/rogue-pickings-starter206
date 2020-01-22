@@ -26,7 +26,7 @@ body {
 	flex-flow: row wrap;
 	justify-content: center;
 	max-width: 1200px;
-	width: 100%;
+	width: 90%;
 }
 
 
@@ -192,8 +192,8 @@ footer span {
 	}
 
 	h1 {
-		width: 100%;
-		text-align: center;
+		/* width: 100%; */
+		/* text-align: center; */
 	}
 
 	.bottom-section	{
@@ -217,7 +217,7 @@ footer span {
 		border-left: 1px solid #eee;
 		border-right: 1px solid #eee;
 		/* justify-content: center; */
-		/* padding: 0 15px; */
+		padding: 0 15px;
 	}
 
 	.section-one h4	{
